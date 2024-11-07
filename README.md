@@ -1,2 +1,0 @@
-# invoice_generator_react
-invoice_generator_react
